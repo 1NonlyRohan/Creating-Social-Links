@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+
+.social-links {
+    margin: 300px 10px 50px 500px;
+}
+
+.social-links .fa-xl {
+    font-size: 3em;
+    margin-left: 20px;
+    color: white;
+}
+
+.social-links .fa-xl:hover {
+    /* color: rgb(79, 80, 80); */
+    transition: all 0.3s;
+    color: royalblue;
+}
